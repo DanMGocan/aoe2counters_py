@@ -44,3 +44,5 @@ longbowman = Archer("Longbowman", False, "Archer", {"castle": 18}, {"food": 0, "
                     [0, 0], ["Archer", "Unique unit"], 0.96, [7, 8], 10, [5, 6], 7, [70, 80])        
 
 
+def test_function():
+    pass
